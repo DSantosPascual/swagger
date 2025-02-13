@@ -20,6 +20,11 @@ module.exports = {
                         example:"false"
                     },
                 }
+            },
+            TaskId: {
+                type: 'string',
+                description: 'id task',
+                example: '23454234234xfsd23423df2'
             }
         }
     }
